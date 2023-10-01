@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yang Liu"
-icon                     : "yl01.png"
+icon                     : "images/yl01.png"
 title_separator          : "-"
 name                     : &name "Yang Liu"
 description              : &description "personal description"
