@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yang Liu"
+icon                     : 
 title_separator          : "-"
 name                     : &name "Yang Liu"
 description              : &description "personal description"
@@ -83,7 +84,7 @@ author:
   name             : "Yang Liu"
   avatar           : "yl01.png"
   bio              : ""
-  location         : "Illinois; Tennessee"
+  location         : "Illinois & Tennessee"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bFu0B0oAAAAJ"
