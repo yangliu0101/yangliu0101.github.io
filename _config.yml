@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yang Liu"
-icon                     : "images/yl01.png"
+icon                     : "yl01.png"
 title_separator          : "-"
 name                     : &name "Yang Liu"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Yang Liu"
-  avatar           : "yl01.png"
+  avatar           : "yl01_1.png"
   bio              : ""
   location         : "Illinois & Tennessee"
   employer         : 
