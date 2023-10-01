@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yang Liu"
-  avatar           : "profile.png"
+  avatar           : "yl01.png"
   bio              : ""
-  location         : "Knoxville, Tennessee"
-  employer         : "Argonne National Laboratory"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Illinois; Tennessee"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bFu0B0oAAAAJ"
   email            : "yang.liu100@anl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yangliu0101"
+  github           : "yangliu0101"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/yang-liu-8a0875111"
+  linkedin         : "yang-liu-8a0875111"
   orcid            : "https://orcid.org/0000-0002-2715-9623"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
