@@ -42,8 +42,8 @@ main:
   - title: "Skills"
     url: /skills/
     
-  - title: "Posts"
-    url: /posts/
+  - title: "Blog"
+    url: /blog/
 
   - title: "Personal"
     url: /personal/
